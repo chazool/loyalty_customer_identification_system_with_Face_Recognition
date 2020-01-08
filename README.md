@@ -1,1 +1,0 @@
-# loyalty_customer_identification_system_with_Face_Recognition-
